@@ -1,6 +1,6 @@
 # React + Vite + Redux 
-Redux ile To Do List.
-React Redux'ın merkezi yönetim sistemi ve güçlü performansından yararlanarak ekleme/silme fonksiyonlarına sahip basit bir To Do List oluşturdum.
+• Redux ile To Do List.
+• React Redux'ın merkezi yönetim sistemi ve güçlü performansından yararlanarak ekleme/silme fonksiyonlarına sahip basit bir To Do List oluşturdum.
 
 # Kullanılan Teknolojiler
 - React.JS
