@@ -26,6 +26,10 @@ React Redux'ın merkezi yönetim sistemi ve güçlü performansından yararlanar
 # Detaylı Ekran Kaydı ;
 ![](/src/assets/to-do-recorder.mp4)
 
+https://github.com/EyupSaltukB/to-do-list/assets/129687853/a1a1faee-8d84-4746-82d8-eed4dc63cd15
+
+
+
 ----------------------------------------------
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
