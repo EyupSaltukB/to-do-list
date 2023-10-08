@@ -26,7 +26,7 @@ const AddForm = () => {
     return (
         <div>
             <form onSubmit={handleSubmit} className="d-flex gap-2">
-                <input className="form-control" type="text" />
+                <input className="form-control" type="text" placeholder="Ne yapmak istiyorsunuz?"/>
                 <button className="btn btn-secondary">Ekle</button>
             </form>
         </div>
